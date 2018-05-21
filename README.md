@@ -24,3 +24,5 @@ tools里面放有一些自己偶尔写的小工具，没啥重要内容，也许
 因此pycharm暂时还不能像IDEA那样对类名 包名配以独立的染色
 
 从目前的使用情况来看，Clion也需要微调一个独立的版本，当然这个需求要放在下个迭代了。
+
+使用方法：settings.jar文件在GeneralConfig\JetBrainTheme目录下，JetBrains全家桶直接File->import settings 即可。
